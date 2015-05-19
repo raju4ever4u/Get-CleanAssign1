@@ -1,5 +1,4 @@
 #Getting and Cleaning Data Course Project
-========================================
 
 Project of [Getting and Cleaning Data course on Coursera](https://class.coursera.org/getdata-014/human_grading/view/courses/973501/assessments/3/submissions), May 2015 edition.
 
